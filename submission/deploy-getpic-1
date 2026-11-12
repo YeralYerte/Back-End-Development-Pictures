@@ -1,0 +1,13 @@
+$ ibmcloud ce project current
+Getting the current project context...
+OK
+
+Name:       Code Engine - sn-labs-yeralytemirb  
+ID:         2d2aa40d-9179-41f5-acd5-ab59a1cf23c3  
+Subdomain:  2h3oa5v7tzm0  
+Domain:     us-south.codeengine.appdomain.cloud  
+Region:     us-south  
+
+Kubernetes Config:    
+Context:               2h3oa5v7tzm0  
+Environment Variable:  export KUBECONFIG="/home/theia/.bluemix/plugins/code-engine/Code Engine - sn-labs-yeralytemirb-2d2aa40d-9179-41f5-acd5-ab59a1cf23c3.yaml"  
